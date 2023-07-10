@@ -1,3 +1,4 @@
-# It is a Simple and Responsive Newspaper Website based on News 18 India News Channel,used programming languages are HTML AND CSS!.Some Bootstrap and JQUERY files are derived to make the website look attractive,modern and stylish[Screenshot (13)](https://github.com/Sukalyan8/Unikaksha_Newspaper-Reader/assets/96485897/58461802-f6ed-4d6a-a18a-2c6e8bd9dfd8)
-![Screenshot (14)](https://github.com/Sukalyan8/Unikaksha_Newspaper-Reader/assets/96485897/babf98f3-8417-4e7c-a2a6-1c465441d8a7)
-![Screenshot (15)](https://github.com/Sukalyan8/Unikaksha_Newspaper-Reader/assets/96485897/1b21ab92-20a1-44c5-977f-56bb5bfd9004)
+# It is a Simple and Responsive Newspaper Website based on News 18 India News Channel,used programming languages are HTML AND CSS!.Some Bootstrap and JQUERY files are derived to make the website look attractive,modern and stylish!!!
+![Screenshot (13)](https://github.com/Sukalyan8/Unikaksha_Newspaper-Reader/assets/96485897/46c652a9-8cec-4446-9aeb-5a020e43d84b)
+![Screenshot (14)](https://github.com/Sukalyan8/Unikaksha_Newspaper-Reader/assets/96485897/9961da45-6c99-4acb-b771-b69c1aebc420)
+![Screenshot (15)](https://github.com/Sukalyan8/Unikaksha_Newspaper-Reader/assets/96485897/f9a8e46a-eaa1-4dc8-8bb4-9c3174fe2bab)
