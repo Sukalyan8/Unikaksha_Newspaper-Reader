@@ -1,0 +1,1 @@
+It is a Simple and Responsive Newspaper Website based on News 18 India News Channel,used programming languages are HTML AND CSS!.Some Bootstrap and JQUERY files are derived to make the website look attractive,modern and stylish!!!
